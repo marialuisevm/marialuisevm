@@ -8,7 +8,7 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 
 ---
 
-## Certificados
+## 🥇 Certificados
 
 [Inglês (IFSul - Idiomas)](https://www.linkedin.com/posts/maria-lu%C3%ADse-das-virgens-menezes-2698b2301_certid%C3%A3o-ifsul-idiomas-ingl%C3%AAs-ugcPost-7475283466662846464-RtOu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0yefEBfs8qsfv3V-jY5jr9aA4nM91kPiM)
 
