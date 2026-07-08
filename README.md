@@ -27,7 +27,7 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 
 ## 🚀 Meu Portifólio
 
-* **[📓 Repositório "Portifólio": ](https://github.com/marialuise02-hash/Projetos/blob/main/Como%20programar%20em%20Python%3F%20to%20README.md)** - Meus projetos de programação desde o início da minha jornada.
+* **[📓 Repositório "Portifólio": ](https://github.com/marialuise02-hash/Portifolio/tree/main)**  Meus projetos de programação desde o início da minha jornada.
 
 ---
 
