@@ -8,20 +8,26 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 
 ---
 
+## Certificados
+
+[Inglês (IFSul - Idiomas)](https://www.linkedin.com/posts/maria-lu%C3%ADse-das-virgens-menezes-2698b2301_certid%C3%A3o-ifsul-idiomas-ingl%C3%AAs-ugcPost-7475283466662846464-RtOu/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0yefEBfs8qsfv3V-jY5jr9aA4nM91kPiM)
+
+[Automação de Dados com IA em Pyhton](https://github.com/marialuise02-hash/certificados/blob/f2d2409dd263b0482713c575ad6c61da94e07163/Certificado%20Automa%C3%A7%C3%A3o%20de%20Dados.pdf)
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 
 * **🌱 Foco atual:** Lógica estruturada de programação e automação com IA em Python.
-* **🎯 Próximos objetivos:** Manipulação de dados, banco de dados relacionais e Programação Orientada a Objetos (POO).
+* **🎯 Meus objetivos:** Manipulação de dados, banco de dados relacionais e Programação Orientada a Objetos (POO).
 
 ---
 
 ## 🚀 Meu Portifólio
 
 * **[📓 Repositório "Portifólio": ](https://github.com/marialuise02-hash/Projetos/blob/main/Como%20programar%20em%20Python%3F%20to%20README.md)** - Meus projetos de programação desde o início da minha jornada.
-
-*(Em breve, meus novos projetos de Automação de Dados, Inteligência Artificial e o App de Desenho estarão listados aqui! 💻)*
 
 ---
 
@@ -36,4 +42,4 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 </a>
 
 
-📧 **Contato:** marialuise02@gmail.com<br>💬 **Discord:** mallu.vm
+📧 **Contato:** marialuisevm@gmail.com<br>💬 **Discord:** mallu.vm
