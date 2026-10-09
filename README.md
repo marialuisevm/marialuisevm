@@ -18,7 +18,7 @@ Busco minha primeira oportunidade como Traineer ou Desenvolvedora Júnior, onde 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="GitHub">
 
 * **🌱 Foco atual:** Lógica estruturada de programação e automação com IA em Python.
 * **🎯 Meus objetivos:** Manipulação de dados, banco de dados relacionais e Programação Orientada a Objetos (POO).
